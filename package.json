@@ -32,7 +32,7 @@
     "jws": "^3.1.0",
     "limiter": "^1.0.5",
     "lodash": "^3.10.1",
-    "loopback": "^2.20.0",
+    "loopback": "^3.26.0",
     "loopback-boot": "^2.9.0",
     "loopback-component-oauth2": "^2.3.4",
     "loopback-policy": "^1.0.0-beta1",
