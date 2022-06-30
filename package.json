@@ -37,7 +37,7 @@
     "loopback-component-oauth2": "^2.3.4",
     "loopback-policy": "^1.0.0-beta1",
     "metrics": "^0.1.9",
-    "passport": "^0.2.2",
+    "passport": "^0.6.0",
     "request": "^2.60.0",
     "serve-favicon": "^2.3.0",
     "strong-express-metrics": "^2.0.1",
